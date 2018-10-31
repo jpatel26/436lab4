@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="color">Color</string>
+    <string name="textview">TextView</string>
+    <string name="color22">color22</string>
+    <string name="shape22">shape22</string>
+    <string name="length22">length22</string>
+    <string name="width22">width22</string>
+    <string name="add">Add</string>
+    <string name="height">height</string>
+    <string name="name">Name</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="Shape">Shape:</string>
+    <string name="add_dialogue">Add Dialog</string>
+    <string name="Color">Color:</string>
+    <string name="Height">Height:</string>
+    <string name="Width">Width:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="color_shape_height_weight">Color  Shape   Height   Weight</string>
+</resources>
